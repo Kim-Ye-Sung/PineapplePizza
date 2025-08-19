@@ -34,8 +34,6 @@
   - 장애물 스폰 시스템 구현  
   - 이동 기계 및 충돌 판정 처리  
   - 타인의 캐릭터 코드 분석 및 수정  
-- 멀티플레이 캐릭터 `AGosooPlayer` 및 상태 관리 시스템 제작  
-- 추격/순찰 AI 미니언(`AUS_Minion`) C++ 구현  
 
 ## How to Run
 1. Clone this repository
