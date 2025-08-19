@@ -35,7 +35,3 @@
   - 이동 기계 및 충돌 판정 처리  
   - 타인의 캐릭터 코드 분석 및 수정  
 
-## How to Run
-1. Clone this repository
-2. Open `Project_Gosoo.uproject` with Unreal Engine 5
-3. Press **Play** to start the game
