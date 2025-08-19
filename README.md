@@ -4,9 +4,9 @@
 4개의 스테이지(플랫포머, FPS, 장애물 피하기, 격투)로 구성된 팀 프로젝트입니다.  
 
 ## Screenshots
-![Stage1](<img width="1920" height="968" alt="스크린샷(2)" src="https://github.com/user-attachments/assets/a3243d7c-d61b-4a5d-81d5-c652b9f75f60" />
+[Stage1](<img width="1920" height="968" alt="스크린샷(2)" src="https://github.com/user-attachments/assets/a3243d7c-d61b-4a5d-81d5-c652b9f75f60" />
 )
-![Stage3](<img width="1920" height="962" alt="스크린샷(4)" src="https://github.com/user-attachments/assets/dd30634d-50c6-44e4-ae62-a778c68f4c58" />
+[Stage3](<img width="1920" height="962" alt="스크린샷(4)" src="https://github.com/user-attachments/assets/dd30634d-50c6-44e4-ae62-a778c68f4c58" />
 )
 
 ## Features
