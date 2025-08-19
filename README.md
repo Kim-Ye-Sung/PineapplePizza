@@ -9,6 +9,13 @@
     <td><img src="https://github.com/user-attachments/assets/5e97654b-6a66-4a78-9aad-16ecaf5e477d" width="400"/></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4e303da2-2b8d-49a4-a264-6e90755f0dea" width = "400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/96228dce-bc70-4d29-938f-6b80c40258f2" width="400"/></td>
+  </tr>
+</table>
+
 
 ## Features
 - **Stage 1:** 플랫포머 형식의 점프 & 이동
