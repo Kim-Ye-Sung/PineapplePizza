@@ -1,13 +1,15 @@
-# Portfolio
+<img width="1920" height="968" alt="스크린샷(2)" src="https://github.com/user-attachments/assets/b5a7b8ca-f371-4ce0-94d1-d8d92e6fb797" /># Portfolio
 # Project PineapplePizza
 언리얼 엔진을 활용한 싱글플레이 게임 프로젝트  
 4개의 스테이지(플랫포머, FPS, 장애물 피하기, 격투)로 구성된 팀 프로젝트입니다.  
 
 ## Screenshots
-[Stage1](<img width="1920" height="968" alt="스크린샷(2)" src="https://github.com/user-attachments/assets/a3243d7c-d61b-4a5d-81d5-c652b9f75f60" />
-)
-[Stage3](<img width="1920" height="962" alt="스크린샷(4)" src="https://github.com/user-attachments/assets/dd30634d-50c6-44e4-ae62-a778c68f4c58" />
-)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5e73e8a0-7ed1-4765-9157-b84250b4aa07" width = "400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5e97654b-6a66-4a78-9aad-16ecaf5e477d" width="400"/></td>
+  </tr>
+</table>
 
 ## Features
 - **Stage 1:** 플랫포머 형식의 점프 & 이동
