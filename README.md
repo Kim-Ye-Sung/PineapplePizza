@@ -1,4 +1,3 @@
-<img width="1920" height="968" alt="스크린샷(2)" src="https://github.com/user-attachments/assets/b5a7b8ca-f371-4ce0-94d1-d8d92e6fb797" /># Portfolio
 # Project PineapplePizza
 언리얼 엔진을 활용한 싱글플레이 게임 프로젝트  
 4개의 스테이지(플랫포머, FPS, 장애물 피하기, 격투)로 구성된 팀 프로젝트입니다.  
