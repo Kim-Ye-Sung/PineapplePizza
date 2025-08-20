@@ -19,15 +19,20 @@
 
 ## [소스코드](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
 
+
+## 기본 정보
+- 개발기간 : 2025년 04월 07일 ~ 2025년 05월 07일
+- 개발 인원 : 3명
+- Tech Stack : Unreal Engine 5.4.4 , C++/Blueprints
+- 플랫폼 : PC(Windows)
+
+
 ## Features
 - **Stage 1:** 플랫포머 형식의 점프 & 이동
 - **Stage 2:** 1인칭 슈팅(FPS) 게임
 - **Stage 3:** 장애물 피하기 (제가 전담 제작한 스테이지)
 - **Stage 4:** 싱글플레이 격투
 
-## Tech Stack
-- Unreal Engine 5.4.4  
-- C++ / Blueprints
 
 ## My Role
 - Stage 3(장애물 피하기) 전담 개발  
