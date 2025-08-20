@@ -21,10 +21,7 @@
 
 ## [시연영상](https://www.youtube.com/watch?v=ers94iobQrs)
 
-## ([핵심 기능 기술서.pdf](https://github.com/user-attachments/files/21885032/default.pdf)
-)
-
-## [핵심 기능 개발
+## [핵심 기능 기술서.pdf](https://github.com/user-attachments/files/21885032/default.pdf)
 
 ## 기본 정보
 - 개발기간 : 2025년 04월 07일 ~ 2025년 05월 07일
