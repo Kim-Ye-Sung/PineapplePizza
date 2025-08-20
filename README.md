@@ -19,7 +19,8 @@
 
 ## [소스코드](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
 
-## 영상oject PineapplePizza
+## [시연영상](https://www.youtube.com/watch?v=ers94iobQrs)
+
 언리얼 엔진을 활용한 싱글플레이 게임 프로젝트  
 4개의 스테이지(플랫포머, FPS, 장애물 피하기, 격투)로 구성된 팀 프로젝트입니다.
 
