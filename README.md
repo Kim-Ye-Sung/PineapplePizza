@@ -40,7 +40,7 @@
 
 ## [소스코드](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
 
-## [시연영상](https://www.youtube.com/watch?v=ers94iobQrs)
+## [시연영상] (https://www.youtube.com/watch?v=ers94iobQrs)
 
 
 ## 기본 정보
