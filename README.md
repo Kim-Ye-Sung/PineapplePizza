@@ -58,18 +58,7 @@ TPS, Puzzle, Stage요소를 포함하는 게임 제장 중
 
 
 ## Screenshots
-<table>
-  <tr>
-    <td><img src="" width = "400"/></td>
-    <td><img src="" width="400"/></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="" width = "400"/></td>
-    <td><img src="" width="400"/></td>
-  </tr>
-</table>
+현재 진행중이라 스크린샷은 아직 없음.
 
 
 ## [학습현황](https://github.com/Kim-Ye-Sung/Learning-Centered_MultiGame)
