@@ -17,9 +17,9 @@
 </table>
 
 
-## [소스코드](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
+## [소스코드 링크](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
 
-## [시연영상](https://www.youtube.com/watch?v=ers94iobQrs)
+## [시연영상 링크](https://www.youtube.com/watch?v=ers94iobQrs)
 
 ## [핵심 기능 기술서.pdf](https://github.com/user-attachments/files/21885032/default.pdf)
 
@@ -61,7 +61,7 @@ TPS, Puzzle, Stage요소를 포함하는 게임 제장 중
 현재 진행중이라 스크린샷은 아직 없음.
 
 
-## [학습현황](https://github.com/Kim-Ye-Sung/Learning-Centered_MultiGame)
+## [학습현황 링크](https://github.com/Kim-Ye-Sung/Learning-Centered_MultiGame)
 
 ## 기본 정보
 - 개발기간 : 2025년 09월 ~ 현재 제작 진행중
