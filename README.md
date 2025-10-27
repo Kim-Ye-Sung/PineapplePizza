@@ -19,7 +19,7 @@
 
 ## [소스코드 링크](https://github.com/Kim-Ye-Sung/Portfolio/tree/main/PineapplePizza_Source)
 -팀원들과 상의한 결과 각자의 포트폴리오에는 각자의 코드만 공개하기로 결론이 나왔습니다.  
-따라서 여기에 공개하는 소스코드는 제가 작성한 코드밖에 없습니다.
+ 따라서 여기에 공개하는 소스코드는 제가 작성한 코드밖에 없습니다.
 
 ## [시연영상 링크](https://www.youtube.com/watch?v=ers94iobQrs)
 
