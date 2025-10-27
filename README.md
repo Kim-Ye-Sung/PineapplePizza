@@ -23,6 +23,8 @@
 
 ## [시연영상 링크](https://www.youtube.com/watch?v=ers94iobQrs)
 
+##[게임 다운로드 링크](https://drive.google.com/file/d/1SvcFfq20gPYEBypOmDF1QZdyuc7IGQAa/view?usp=drive_link)
+
 ## [핵심 기능 기술서.pdf](https://github.com/user-attachments/files/21885032/default.pdf)
 
 ## 기본 정보
